@@ -1,3 +1,2 @@
-# gitskills
+Creating a branch is quick and simple.
 
-Creating a branch is quick & simple.
